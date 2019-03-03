@@ -56,6 +56,7 @@ include 'map.php'; // 导入assets-map文件
 **在sample中**
 
 `npm run dev` 开发模式
-`npm run build` 生成模式
+
+`npm run build` 生产模式
 
 两个模式均无需更改php文件，map.php自动生成
